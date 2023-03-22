@@ -3,7 +3,6 @@
 # Pythia Cook-off 2023
 
 [![nightly-build](https://github.com/ProjectPythia/pythia-cookoff-2023/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/pythia-cookoff-2023/actions/workflows/nightly-build.yaml)
-<!-- [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/pythia-cookoff-2023/main?labpath=notebooks) -->
 
 ## What is it?
 
