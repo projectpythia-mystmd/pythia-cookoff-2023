@@ -13,7 +13,7 @@ _One paragraph description of the event_
 
 ## When and where
 
-**June 20-23 2023, in person at the NCAR Mesa Lab and virtual**
+**June 20-23 2023, in person at the [NCAR Mesa Lab](https://scied.ucar.edu/visit) and virtual**
 
 ## Who is this for?
 
