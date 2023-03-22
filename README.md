@@ -1,6 +1,4 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
-
-**Put a pangeo logo here too**
+<img src="thumbnail.png" alt="thumbnail" width="300"/> <img src="https://github.com/pangeo-data/branding/blob/master/logo/large-logo-blue-text.png" alt="Pangeo logo" width=600/>
 
 # Pythia Cook-off 2023
 
