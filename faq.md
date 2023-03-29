@@ -10,7 +10,7 @@ Yes! Our meeting rooms will be equipped for hybrid events. We will have at least
 
 ## Is there a reserved hotel block for this event?
 
-Yes! We requested 20 rooms at the _______.
+Yes! We requested 20 rooms at the Fairfield Inn & Suites in Boulder, CO. More information on how to reserve to come.
 
 ## I don't know anything about how to build a Cookbook, should I attend?
 
