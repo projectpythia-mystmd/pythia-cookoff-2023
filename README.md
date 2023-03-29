@@ -6,7 +6,7 @@
 
 ## What is it?
 
-Project Pythia invites you to join a Cookbook Cook-off.  Pythia Cookbooks (https://cookbooks.projectpythia.org) are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows, building upon our Pythia Foundations (https://foundations.projectpythia.org) tutorials. Cookbooks are supported by a rich GitHub-based infrastructure enabling collaborative authoring and automated health-checking to ensure reproducibility.
+Project Pythia invites you to join a Cookbook Cook-off.  [Pythia Cookbooks](https://cookbooks.projectpythia.org) are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows, building upon our [Pythia Foundations](https://foundations.projectpythia.org) tutorials. Cookbooks are supported by a rich GitHub-based infrastructure enabling collaborative authoring and automated health-checking to ensure reproducibility.
 
 The Pythia Cook-off will grow the collection of accessible, reusable, and reproducible geoscientific workflows in the Pythia Cookbooks, while broadening the community of user-contributors. We are encouraged by numerous conversations with scientific colleagues who are enthusiastic about contributing Cookbook content. We want to create a forum for people to bring their ideas, existing code, or rough notebooks and collaborate on turning them into community Cookbooks.
 
