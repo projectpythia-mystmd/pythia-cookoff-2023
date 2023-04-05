@@ -2,7 +2,11 @@
 
 ## Are there travel funds available?
 
-Unfortunately, we were unable to secure travel funds for this event.
+Unfortunately, we were unable to secure travel funds for this event. 
+
+## Will there be food provided?
+
+Since we don't have funding and this is a free event, we are unable to provide snacks and refreshments but there is a cafe onsite. For information on what is offered in NCAR's Mesa Lab cafe and a site map, visit the [NCAR "things to know" page](https://scied.ucar.edu/visit/things-to-know).
 
 ## Can I participate remotely?
 
