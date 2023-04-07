@@ -33,4 +33,4 @@ Pythia is committed to building an inclusive space that promotes and values dive
 
 ## How do I apply?
 
-Easy, just fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdRAe9BQqWXTfHEtubpcBAo_SxdMO2BwQr9XIDkpVPaC0oCvw/viewform)
+Easy, just fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSd4hQVVzD26KdwfGZqcEK6buCHq7E0f50D82bhNM5zOfGE2KQ/viewform?usp=sf_link)
