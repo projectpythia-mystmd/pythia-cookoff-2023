@@ -8,7 +8,7 @@ The Pythia Cook-Off takes place at the NCAR Mesa Lab:
 
 We recommend you fly through Denver International Airport (DIA). Particpants may choose to get a rental car or use a cab/ride share app to reach Boulder.
 
-NCAR offers a [shuttle service](https://sundog.ucar.edu/Interact/Pages/Content/Document.aspx?id=5645) that can bring you from the hotel to the Mesa Lab each day.
+NCAR offers a [shuttle service](https://wiki.ucar.edu/display/DIME/Visitor+Information) that can bring you from the hotel to the Mesa Lab each day.
 
 ## Hotel Information
 
