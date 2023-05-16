@@ -4,6 +4,8 @@
 
 [![nightly-build](https://github.com/ProjectPythia/pythia-cookoff-2023/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/pythia-cookoff-2023/actions/workflows/nightly-build.yaml)
 
+**Application deadline extended to Friday June 2! Fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSd4hQVVzD26KdwfGZqcEK6buCHq7E0f50D82bhNM5zOfGE2KQ/viewform?usp=sf_link)**
+
 ## What is it?
 
 Project Pythia invites you to join a Cookbook Cook-off.  [Pythia Cookbooks](https://cookbooks.projectpythia.org) are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows, building upon our [Pythia Foundations](https://foundations.projectpythia.org) tutorials. Cookbooks are supported by a rich GitHub-based infrastructure enabling collaborative authoring and automated health-checking to ensure reproducibility.
@@ -32,5 +34,7 @@ Pythia is committed to building an inclusive space that promotes and values dive
 
 
 ## How do I apply?
+
+**Extended application deadline is now Friday June 2, 2023**. However the [hotel block deadline](travel) is Wednesday, May 24.
 
 Easy, just fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSd4hQVVzD26KdwfGZqcEK6buCHq7E0f50D82bhNM5zOfGE2KQ/viewform?usp=sf_link)
