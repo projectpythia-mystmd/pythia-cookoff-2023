@@ -1,4 +1,4 @@
-# Getting Python On Your Machine: Mamba :snake:!
+# Getting Python On Your Machine: Mamba!
 
 ---
 
