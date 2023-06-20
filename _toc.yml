@@ -6,3 +6,4 @@ parts:
       - file: schedule
       - file: travel
       - file: faq
+      - file: python-environments
