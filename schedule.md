@@ -1,6 +1,7 @@
-# Hackathon schedule (All Rooms are in the NCAR Mesa Laboratory)
+# Hackathon schedule 
 
-All times are Mountain Daylight Time, UTC-6 (local time in Boulder CO)
+- All rooms are in the [NCAR Mesa Laboratory](https://scied.ucar.edu/visit)
+- All times are Mountain Daylight Time, UTC-6 (local time in Boulder CO)
 
 ## Tuesday June 20
 - 9 am: Welcome plenary (Main Seminar Room)
