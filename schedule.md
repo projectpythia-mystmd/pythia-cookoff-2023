@@ -33,7 +33,7 @@
 
 ## Friday June 23
 - 9 am: Morning check-in (Main Seminar Room)
-- 9:30 am: Project presentations (Main Seminar Room)
-- 12:30 pm: Lunch (Cafeteria)
-- 1:30 Wrap-up plenary (Main Seminar Room)
+- 9:30 am: Hacking (Breakout Rooms)
+- 12:00 pm: Lunch (Cafeteria)
+- 1:00 Wrap-up plenary and presentations (Main Seminar Room)
 - 2:30 Adjourn
