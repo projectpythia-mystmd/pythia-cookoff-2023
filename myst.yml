@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: Pythia Cook-off 2023
+  authors:
+    - name: the <a href="https://projectpythia.org/">Project Pythia</a> Community
+  copyright: '2023'
+  toc:
+    - file: index.md
+    - title: Essential info
+      children:
+        - file: schedule.md
+        - file: travel.md
+        - file: faq.md
+        - file: python-environments.md
+site:
+  options:
+    logo: notebooks/images/logos/pythia_logo-white-rtext.svg
+    folders: true
+  template: book-theme
